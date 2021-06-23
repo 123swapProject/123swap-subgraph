@@ -1,6 +1,6 @@
 specVersion: 0.0.2
-description: PancakeSwap Timelock contract
-repository: https://github.com/pancakeswap
+description: 123swap Timelock contract
+repository: https://github.com/123swapProject/123swap-subgraph
 schema:
   file: ./timelock.graphql
 dataSources:
